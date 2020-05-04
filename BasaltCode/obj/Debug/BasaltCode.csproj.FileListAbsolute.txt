@@ -1,0 +1,17 @@
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\BasaltCode.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\BasaltCode.pdb
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\WebDriver.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\WebDriver.Support.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\WebDriver.xml
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\bin\Debug\WebDriver.Support.xml
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\obj\Debug\BasaltCode.csproj.CopyComplete
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\obj\Debug\BasaltCode.dll
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\obj\Debug\BasaltCode.pdb
+C:\Users\Home\Desktop\Basalt Stuff\BasaltCodeTests\BasaltCode\obj\Debug\BasaltCode.csprojAssemblyReference.cache
